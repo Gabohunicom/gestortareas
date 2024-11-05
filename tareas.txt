@@ -1,0 +1,2 @@
+1. Crar el frontend del login
+2. Conextarlo a la base de datos
